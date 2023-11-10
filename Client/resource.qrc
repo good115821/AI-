@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resources/background.png</file>
+        <file>resources/select_home.png</file>
+        <file>resources/book.png</file>
+        <file>resources/select_book.png</file>
+        <file>resources/whale.png</file>
+        <file>resources/whale(75,100).png</file>
+        <file>resources/whale(200,300).png</file>
+        <file>resources/select_list.png</file>
+        <file>resources/selected_setting.png</file>
+        <file>resources/setting.png</file>
+        <file>resources/list.png</file>
+        <file>resources/Loding_screen.gif</file>
+        <file>resources/Dream Whale.gif</file>
+        <file>resources/wallpapers_Dream Whale.png</file>
+        <file>resources/wallpapers_Dream Whale_2.png</file>
+        <file>resources/Dream Whale_.png</file>
+        <file>resources/back.png</file>
+        <file>resources/home.png</file>
+        <file>resources/home_select.png</file>
+        <file>resources/home(1).png</file>
+    </qresource>
+</RCC>
